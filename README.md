@@ -4,28 +4,28 @@ Expense Tracker Program
 # Simple Expense Tracker
 
 ## 📌 Project Overview
-The **Simple Expense Tracker** is a Python-based console application that allows users to record, view, and analyze their daily expenses.  
+This **Simple Expense Tracker** is a Python-based console application that allows users to record, view, and analyze their daily expenses.  
 It helps users understand their spending habits by generating category-wise breakdowns, total expenses, and visual charts.
 
 ---
 
 ## ✨ Features
-- Add expenses with name, amount, and category  
-- View all recorded expenses in a formatted list  
-- Generate a detailed expense report  
+- Add expenses with name, amount, and category. 
+- View all recorded expenses in a formatted list.  
+- Generates a detailed expense report: 
   - Total expenditure  
   - Category-wise totals  
   - Percentage breakdown  
   - Smart spending feedback  
-- Pie chart visualization using Matplotlib  
-- User-friendly menu-driven interface  
+- Pie chart visualization using Matplotlib. 
+- User-friendly menu-driven interface. 
 
 ---
 
 ## 🛠️ Technologies / Tools Used
 - **Python 3**
 - **Matplotlib** (for charts)
-- **Standard I/O** for user interaction
+- **Standard Input/Output** for user interaction
 
 ---
 
