@@ -67,8 +67,19 @@ python main.py
 
 5.Exit the application using Option 4.
 
+# 📸 Screenshots
 
-# Screenshots
+<img width="1047" height="816" alt="et1" src="https://github.com/user-attachments/assets/326796dc-5719-4b21-a4a8-76f6e6d60386" />
+<img width="1073" height="757" alt="et2" src="https://github.com/user-attachments/assets/d12bbae2-1f7d-49f4-b0b9-8ffd8afa3fe7" />
+<img width="1057" height="768" alt="et3" src="https://github.com/user-attachments/assets/d8b9ef85-2c3a-4c88-a135-661a46415a79" />
+<img width="1068" height="756" alt="et4" src="https://github.com/user-attachments/assets/ae436c91-2a17-4362-a1f0-7c3a666797b1" />
+<img width="1067" height="763" alt="et5" src="https://github.com/user-attachments/assets/121d9f87-9642-42c7-8704-e7cee0a919fb" />
+<img width="1000" height="293" alt="et6" src="https://github.com/user-attachments/assets/68777a96-9eef-4639-9d15-11f03cd91dd3" />
+<img width="1105" height="822" alt="et7" src="https://github.com/user-attachments/assets/67863ac8-e8b2-4a2e-bad8-97793cd1d35f" />
+<img width="862" height="217" alt="et8" src="https://github.com/user-attachments/assets/c1edebc7-903e-46e4-b1fa-da56330eefa7" />
+
+
+
 
 
 
