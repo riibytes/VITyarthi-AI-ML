@@ -53,17 +53,17 @@ python main.py
 
 2.Choose Option 1 to add several expenses with different categories.
 
-3.Choose Option 2 to verify they appear correctly.
+3.Choose Option 2 to view the expenses & verify if they appear correctly.
 
 4.Choose Option 3 to generate the report and ensure:
 
- Totals are correct
+ ~Totals are correct
 
- Percentages are accurate
+ ~Percentages are accurate
 
- Feedback matches spending patterns
+ ~Feedback matches spending patterns
 
- Pie chart displays properly
+ ~Pie chart displays properly
 
 5.Exit the application using Option 4.
 
