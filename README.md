@@ -31,23 +31,23 @@ It helps users understand their spending habits by generating category-wise brea
 
 ## 🚀 Installation & Running the Project
 
-### **1. Clone the repository**
+### **- Clone the repository**
 
 git clone https://github.com/yourusername/expense-tracker.git
 cd expense-tracker
 
 
-# Install required library
+### -Install required library
 
 pip install matplotlib
 
 
-# Run the program
+### -Run the program
 
 python main.py
 
 
-# Instructions for Testing
+### -Instructions for Testing
 
 1.Run the program.
 
@@ -73,7 +73,8 @@ python main.py
 
 
 
-# 📸 Screenshots
+## 📸 Screenshots
+![image alt](https://github.com/riibytes/VITyarthi-AI-ML/tree/8802259b013d7a4b3c64b020e623e10d9dbd9267/screenshots)
 
 
 
