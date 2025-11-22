@@ -32,7 +32,7 @@ It helps users understand their spending habits by generating category-wise brea
 ## 🚀 Installation & Running the Project
 
 ### **1. Clone the repository**
-```bash
+
 git clone https://github.com/yourusername/expense-tracker.git
 cd expense-tracker
 
@@ -67,9 +67,16 @@ python main.py
 
 5.Exit the application using Option 4.
 
+
+
 ---
 
-### Screenshots
+
+
+# 📸 Screenshots
+
+
+
 
 
 
