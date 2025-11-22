@@ -69,7 +69,7 @@ python main.py
 
 # Screenshots
 
-![image alt]()
+![image alt](https://github.com/riibytes/VITyarthi-AI-ML/tree/d42a56a969c4a1e8bec02536903b1c27bde936f5/screenshots)
 
 
 
