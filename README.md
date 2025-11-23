@@ -33,8 +33,7 @@ It helps users understand their spending habits by generating category-wise brea
 
 ### **- Clone the repository**
 
-git clone https://github.com/yourusername/expense-tracker.git
-cd expense-tracker
+git clone https://github.com/riibytes/VITyarthi-AI-ML.git
 
 
 ### -Install required library
