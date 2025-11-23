@@ -43,7 +43,7 @@ pip install matplotlib
 
 ### -Run the program
 
-python main.py
+Expense_Tracker_Program.py
 
 ---
 
