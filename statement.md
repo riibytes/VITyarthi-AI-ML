@@ -3,7 +3,7 @@
 
 # ✅ **statement.md**
 
-```markdown
+
 # Project Statement – Simple Expense Tracker
 
 ## 📝 Problem Statement
