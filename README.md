@@ -46,6 +46,8 @@ pip install matplotlib
 
 python main.py
 
+---
+
 
 ## 📝 Instructions for Testing
 
