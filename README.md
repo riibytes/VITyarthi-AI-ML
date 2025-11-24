@@ -1,7 +1,7 @@
-# VITyarthi-AI-ML
-Expense Tracker Program
+# VITyarthi-AI-ML project
 
-# Simple Expense Tracker
+
+# Simple Expense Tracker Program
 
 ## 📌 Project Overview
 This **Simple Expense Tracker** is a Python-based console application that allows users to record, view, and analyze their daily expenses.  
